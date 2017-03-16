@@ -16,5 +16,11 @@ Tabbar
 https://medium.com/@hitherejoe/exploring-the-android-design-support-library-bottom-navigation-drawer-548de699e8e0#.b2r586knf
 
 
+Some blog
+
+https://medium.com/@nullthemall
+https://joebirch.co/articles/
+https://blog.aritraroy.in/@aritraroy
+
 
 
