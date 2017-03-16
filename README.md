@@ -21,6 +21,7 @@ Some blog
 https://medium.com/@nullthemall
 https://joebirch.co/articles/
 https://blog.aritraroy.in/@aritraroy
+https://medium.com/@dmilicic
 
 
 
